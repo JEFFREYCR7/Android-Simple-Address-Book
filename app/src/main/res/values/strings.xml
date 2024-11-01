@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string name="address_book">通讯录</string>
+</resources>
